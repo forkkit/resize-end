@@ -2,7 +2,8 @@
 
 var TIMEOUT = 200,
     EVENT_KEY = 'resizeend',
-    $window = $(window);
+    $window = $(window),
+    timer;
 
 window.addEventListener('resize', function () {
     clearTimeout(timer);
