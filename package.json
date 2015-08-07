@@ -1,6 +1,6 @@
 {
   "name": "resize-end",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Fire a resizeend event when a user finishes resizing the viewport.",
   "author": "Matt Perry <admin@redshiftjs.com>",
   "homepage": "http://redshiftjs.com",
